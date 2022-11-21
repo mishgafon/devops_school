@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.3.4-0ubuntu1~20.04.1 on Mon, 21 Nov 2022 17:00:11 +0000
+
+# User rules for mishg
+mishg ALL=(ALL) NOPASSWD:ALL
